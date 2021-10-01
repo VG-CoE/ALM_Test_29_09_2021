@@ -1,0 +1,10 @@
+<environmentvariabledefinition schemaname="cr1e3_TextVariable2">
+  <defaultvalue>Test2</defaultvalue>
+  <displayname default="TextVariable2">
+    <label description="TextVariable2" languagecode="1033" />
+  </displayname>
+  <introducedversion>1.0.0.1</introducedversion>
+  <iscustomizable>1</iscustomizable>
+  <isrequired>0</isrequired>
+  <type>100000000</type>
+</environmentvariabledefinition>
