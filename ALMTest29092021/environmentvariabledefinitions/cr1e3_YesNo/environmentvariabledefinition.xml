@@ -1,0 +1,9 @@
+<environmentvariabledefinition schemaname="cr1e3_YesNo">
+  <displayname default="YesNo">
+    <label description="YesNo" languagecode="1033" />
+  </displayname>
+  <introducedversion>1.0.0.1</introducedversion>
+  <iscustomizable>1</iscustomizable>
+  <isrequired>0</isrequired>
+  <type>100000002</type>
+</environmentvariabledefinition>
